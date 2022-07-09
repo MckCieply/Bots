@@ -13,3 +13,5 @@ for tr in doc.find_all('tr')[1:]:
     print(f"""Driver: {first_name} {last_name}
     Car: {car}
     POINTS: {points}""")
+
+    #Git_Commit
