@@ -14,4 +14,4 @@ for tr in doc.find_all('tr')[1:]:
     Car: {car}
     POINTS: {points}""")
 
-    #Git_Commit
+
