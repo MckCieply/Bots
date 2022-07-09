@@ -3,7 +3,7 @@ import os
 import requests
 import json
 
-TOKEN = "OTkyMzYxMDA5MjcwNDg5MTM4.G7Py0x.3wkblHT8jmu2c_iF035-6YsHK2OVQCln_cnQUI" 
+TOKEN = #thats the bot token 
 client = discord.Client()
 
 @client.event
